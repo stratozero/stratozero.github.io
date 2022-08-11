@@ -2,7 +2,7 @@
 
 I only want to improve my written english, and do this by giving some useful advice to beginner java developers.
 
-Just be patient with me and issue any problem you find here: [https://github.com/stratozero/stratozero.github.io](https://github.com/stratozero/stratozero.github.io)
+Just be patient with me and issue any problem [in the GitHub issue section](https://github.com/stratozero/stratozero.github.io/issues)
 
 ## Tips
 
