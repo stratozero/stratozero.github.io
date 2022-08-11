@@ -1,8 +1,8 @@
-# Get ready for code! :monocle_face: 
+# Get ready for code! 😎  
 
 I only want to improve my written english, and do this by giving some useful advice to beginner java developers.
 
-Just be patient and issue any problem you find here: [https://github.com/stratozero/stratozero.github.io](https://github.com/stratozero/stratozero.github.io)
+Just be patient with me and issue any problem you find here: [https://github.com/stratozero/stratozero.github.io](https://github.com/stratozero/stratozero.github.io)
 
 ## Tips
 
