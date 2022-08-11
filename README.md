@@ -24,4 +24,4 @@ final String value = Objects.requireNotNullElseGet(
 );
 ```
 
-Which hash a comprehensible semantic and do the tick very well
+Which has a comprehensible semantic and do the tick very well
