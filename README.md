@@ -11,7 +11,7 @@ other are bad examples or worst
 
 ### Properties API
 
-`java.util.Properties` do have a method `getProperty(key, defaultValue)` which evaluate a key and, of not found, return a default value, but this return value should heve been already calculated, even if it's not used.
+`java.util.Properties` do have a method `getProperty(key, defaultValue)` which evaluate a key and, of not found, return a default value, but this return value should have been already calculated, even if it's not used.
 
 To avoid this and cover this lack of implementation you can do this:
 
